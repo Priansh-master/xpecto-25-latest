@@ -28,7 +28,6 @@ const Page = () => {
           return (
             <div key={i} style={{ padding: 10 }}>
               <Image src={`https://res.cloudinary.com/diqdg481x/image/upload/v1737737324/300_ainvey.png`} alt="logo" width={100} height={100} />
-
               <Link
                 style={{ border: "1px solid white", margin: 1 }}
                 href={"/sponsors/" + sponSlug}

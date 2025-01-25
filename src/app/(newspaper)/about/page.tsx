@@ -71,8 +71,8 @@ const page = () => {
       <div className="md:flex-col">
         <Image
           src={`https://res.cloudinary.com/diqdg481x/image/upload/v1737737277/iit-mandi-img_kbkhed.png`}
-          width={300}
-          height={300}
+          width={400}
+          height={400}
           alt={"College Image"}
           className="size-56 w-full border-[3px] border-black object-cover md:h-[25rem]"
         />
